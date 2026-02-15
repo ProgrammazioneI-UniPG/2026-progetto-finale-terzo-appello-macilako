@@ -2,11 +2,11 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Maciej
 
-## Cognome: 
+## Cognome: Lakomski
 
-## Matricola:
+## Matricola: 394030
 
 ## Commenti/modifiche al progetto:
 
